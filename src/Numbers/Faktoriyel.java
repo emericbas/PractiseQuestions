@@ -2,7 +2,7 @@ package Numbers;
 
 public class Faktoriyel {
     public static void main(String[] args) {
-       /*  Girdi olarak bir tamsayı kabul eden ve
+       /*23)  Girdi olarak bir tamsayı kabul eden ve
         bu tam sayının faktöriyelini hesaplayan bir method yazın.
         Method bize çıktıyı döndürsün.
         Örnek:
