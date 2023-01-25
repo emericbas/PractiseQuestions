@@ -14,7 +14,7 @@ public class fibonacci {
          * “Fibonacci series contain that numbers : X and Y”
          * (X and Y should be the closest Fibonacci numbers to given number X<num<Y)
          */
-static boolean fibo=false;
+static boolean fibo;
 static int x;
 static int y;
     public static void main(String[] args) {
